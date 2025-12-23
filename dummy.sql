@@ -1,2 +1,1 @@
-select count * from sss.abc;
-
+select COUNT(*) from sss.abc;
